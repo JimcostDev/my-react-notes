@@ -90,7 +90,7 @@ function Contador() {
 
 ---
 
-### 🪝 Hooks
+### ⚓ Hooks
 Los **hooks** son funciones especiales de React que permiten **usar características internas** (como estado, ciclo de vida, contexto, etc.) en componentes funcionales.
 
 Algunos hooks más comunes:
