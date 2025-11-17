@@ -1,5 +1,6 @@
 
 import Counter from './components/Counter'
+import ToggleButton from './components/ToggleButton'
 
 function App() {
   
@@ -13,6 +14,9 @@ function App() {
         <Counter title="Contador B" />
         <Counter title="Contador C" />
       </div>
+    </div>
+    <div className="fixed bottom-8 right-8">
+      <ToggleButton />
     </div>
     </>
   )
