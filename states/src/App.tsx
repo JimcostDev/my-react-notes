@@ -2,6 +2,7 @@
 import Counter from './components/Counter'
 import ToggleButton from './components/ToggleButton'
 import NameForm from './components/NameForm'
+import CounterWithEffect from './components/CounterWithEffect'
 
 function App() {
   
@@ -14,6 +15,7 @@ function App() {
         <Counter title="Contador A" />
         <Counter title="Contador B" />
         <Counter title="Contador C" />
+        <CounterWithEffect title="Contador con Efecto" />
         <NameForm />
       </div>
     </div>
